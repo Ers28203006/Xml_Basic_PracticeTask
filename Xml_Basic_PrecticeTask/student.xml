@@ -1,0 +1,8 @@
+<student>
+  <name>Tom</name>
+  <surname>Soer</surname>
+  <age>20</age>
+  <specialty>Рrogramming</specialty>
+  <studyCourse>2</studyCourse>
+  <averageMark>11,9</averageMark>
+</student>
